@@ -1,0 +1,5 @@
+//git version --> to check the git version 
+// git init to intialize a empty git repositry
+//git status --> to check the branch status 
+// git add filename --> to add the file into the staging area only a single file can be added
+// git add . --> to add all files to stating which are untracked 
