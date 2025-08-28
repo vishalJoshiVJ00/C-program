@@ -7,3 +7,5 @@
 // git  config --global user.name "username"
 // git branch branchname --> to switch the branch in git 
 // git checkout brnachname --> to checkout switch branch in git 
+// git push -u origin main --> to push code in origin main 
+// git push 
