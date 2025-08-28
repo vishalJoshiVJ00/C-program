@@ -5,3 +5,5 @@
 // git add . --> to add all files to stating which are untracked 
 // git commit -m "Messsage you want to pass in the commit"
 // git  config --global user.name "username"
+// git branch branchname --> to switch the branch in git 
+// git checkout brnachname --> to checkout switch branch in git 
